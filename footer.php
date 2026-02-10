@@ -190,7 +190,7 @@ text-align: left;
        
       </a>
         
-              <p class="footer-brand-dec" style="padding-right: 100px; font-size:12px;" >Η NORIKS δημιουργήθηκε για να λύσει ένα απλό, αλλά συχνά παραμελημένο πρόβλημα: οι περισσότεροι άνδρες δεν έχουν ρούχα που να τους ταιριάζουν πραγματικά. Από την απογοήτευση με κοντά, στενά και κακοσχεδιασμένα βασικά κομμάτια, η NORIKS σχεδιάζει διαχρονικά ρούχα για πιο δυνατές σωματοδομές – μακρύτερα, πιο άνετα και προσεκτικά σχεδιασμένα εκεί που χρειάζεται περισσότερο.
+              <p class="footer-brand-dec" style="padding-right: 100px; font-size:12px;" >NORIKS tika izveidots, lai atrisinātu vienkāršu, bet bieži ignorētu problēmu: vairumam vīriešu nav apģērba, kas patiešām labi der. No vilšanās ar īsiem, šauriem un slikti izgatavotiem pamatelementiem, NORIKS veido laika pārbaudītu apģērbu spēcīgākām ķermeņa formām – garāku, ērtāku un rūpīgi izstrādātu tur, kur tas visvairāk nepieciešams.
 </p>
       </div>
     </div>

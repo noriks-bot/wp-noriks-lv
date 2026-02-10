@@ -46,7 +46,7 @@ get_header(); ?>
   <div class="hero__overlay" aria-hidden="true"></div>
 
   <div class="hero__content">
-    <!--<p class="hero__eyebrow">ΝΕΟ: NORIKS </p>-->
+    <!--<p class="hero__eyebrow">JAUNS: NORIKS </p>-->
     <h1 class="hero__title">T-krekls, kas atrisina visas problēmas.</h1>
 
     <a class="hero__btn" href="/lv/shop">PIRKT TAGAD</a>

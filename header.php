@@ -138,12 +138,12 @@ document.addEventListener('DOMContentLoaded', function () {
     <div class="marquee-content">
       <span><a href="/lv/shop">Bezmaksas piegāde pasūtījumiem virs 70 €</a></span>
       <span><a href="/lv/shop">30 dienas bez riska – izmēģini bez bažām</a></span>
-      <!--<span><a href="/lv/shop">Χειμερινή προσφορά: Έως 70% έκπτωση!</a></span>-->
+      <!--<span><a href="/lv/shop">Ziemas piedāvājums: Līdz 70% atlaide!</a></span>-->
 
       <!-- DUPLICATED for seamless infinite loop -->
       <span><a href="/lv/shop">Bezmaksas piegāde pasūtījumiem virs 70 €</a></span>
       <span><a href="/lv/shop">30 dienas bez riska – izmēģini bez bažām</a></span>
-     <!-- <span><a href="/lv/shop">Χειμερινή προσφορά: Έως 70% έκπτωση!</a></span>-->
+     <!-- <span><a href="/lv/shop">Ziemas piedāvājums: Līdz 70% atlaide!</a></span>-->
       
        <!-- DUPLICATED for seamless infinite loop -->
       <span><a href="/lv/shop">Bezmaksas piegāde pasūtījumiem virs 70 €</a></span>
