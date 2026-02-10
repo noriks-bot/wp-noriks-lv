@@ -23,7 +23,7 @@ PROČ LIDÉ VOLÍ STARTOVACÍ BALÍČEK?
 
       <div style="margin-left: 20px;" class="why-point">
         <p  style="    font-style: italic;
-    line-height: 1.2;"  ><strong>"""Vzal jsem ho, protože jsem si nebyl jistý, jestli mi bude sedět."
+    line-height: 1.2;"  ><strong>"""Paņēmu to, jo nebiju pārliecināts, vai man derēs."
 
 
 </strong><span style="font-weight:normal;">Marko - Zagreb</span></p>
@@ -105,7 +105,7 @@ PROČ LIDÉ VOLÍ STARTOVACÍ BALÍČEK?
       </div>
 
       <div style="margin-left: 20px;" class="why-point">
-        <p><strong>Kvalita, kterou ucítíš hned
+        <p><strong>Kvalitāte, ko jūti uzreiz
 
 
 </strong></p>
@@ -315,7 +315,7 @@ if (  has_term( array( 'tricka', 'orto-majice', 'mplouzoakia', 't-shirts', 'blou
       </h2>
 
       <div style="margin-left: 20px;" class="why-point">
-        <p><strong>Navrženo pro skutečný život
+        <p><strong>Izstrādāts reālai dzīvei
 </strong></p>
         <p class="description">Šis T-krekls ir paredzēts valkāšanai visu dienu - no rīta līdz vakaram. Nav nepieciešama nekāda pielāgošana vai pārdomāšana, vienkārši labi der katrā situācijā.
 </p>
@@ -329,7 +329,7 @@ if (  has_term( array( 'tricka', 'orto-majice', 'mplouzoakia', 't-shirts', 'blou
       </div>
 
       <div style="margin-left: 20px;" class="why-point">
-        <p><strong>Rozdíl poznáš už při prvním obléknutí
+        <p><strong>Atšķirību sajutīsi jau pirmajā uzvilkšanas reizē
 </strong></p>
         <p class="description">Materiāls ir mīksts, viegls un elpojams uz ādas. Jau pēc pirmās valkāšanas ir skaidrs, kāpēc šis T-krekls ātri kļūs par to, pēc kura sniedzies visbiežāk.
 </p>
@@ -451,9 +451,9 @@ endif;
 
         <p class="description">
 
-        ✅ Méně trhání <br/>
-        ✅ Méně pocení <br/>
-        ✅ Pohodlí po celý den <br/>
+        ✅ Mazāk raušanas <br/>
+        ✅ Mazāk svīšanas <br/>
+        ✅ Komforts visu dienu <br/>
 
         </p>
       </div>
@@ -1049,7 +1049,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
           <?php else: ?>
 
-          Nisi sam u potrazi za savršenim boksericama.
+          Tu neesi vienīgais, kas meklē perfektus bokseršortus.
 
           <?php endif; ?>
 
@@ -1596,7 +1596,7 @@ $auto_reviews_ship = assign_unique_avatars_first_n($auto_reviews_ship, $avatar_p
     <div class="cta-button" style="background:transparent;padding:0;justify-content:left;">
       <a class="cta-button2 button button--xl"
          style="margin:0 auto;text-align:left;background:black;font-family:'Roboto',sans-serif;color:#fff;text-transform:none;font-size:15px;padding:10px 25px;"
-         href="#">Načíst více</a>
+         href="#">Ielādēt vairāk</a>
     </div>
     <div id="reviews-loading" style="display:none;text-align:center;padding:15px;">
       <div class="loader"></div>
@@ -1921,7 +1921,7 @@ $faq_list3 = get_field('faq_list_3', 'option');
 
 
 <section class="faq-section">
-  <h2>Často kladené otázky</h2>
+  <h2>Bieži uzdotie jautājumi</h2>
 
 
    <!-- first faq container -->
