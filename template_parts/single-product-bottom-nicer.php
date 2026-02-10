@@ -48,12 +48,12 @@ PROČ LIDÉ VOLÍ STARTOVACÍ BALÍČEK?
 
       <div style="margin-left: 20px;" class="why-point">
         <p  style="    font-style: italic;
-    line-height: 1.2;"  ><strong>"Το υλικό και η εφαρμογή με έπεισαν."
+    line-height: 1.2;"  ><strong>"Materiāls un pieguļošana mani pārliecināja."
 
 
 
-</strong><span style="font-weight:normal;">Γιώργος - Αθήνα</span></p>
-        <p class="description">Το μπλουζάκι και τα μποξεράκια είναι μαλακά, ελαφριά και ευχάριστα στο δέρμα. Το πακέτο εκκίνησης είναι ο πιο συχνός λόγος που το NORIKS γίνεται γρήγορα μέρος της καθημερινής γκαρνταρόμπας.
+</strong><span style="font-weight:normal;">Jānis - Rīga</span></p>
+        <p class="description">T-krekls un bokseršorti ir mīksti, viegli un patīkami ādai. Starta komplekts ir visbiežākais iemesls, kāpēc NORIKS ātri kļūst par ikdienas garderobes daļu.
 
 
 
@@ -79,27 +79,27 @@ PROČ LIDÉ VOLÍ STARTOVACÍ BALÍČEK?
     <!-- Right Content -->
     <div class="why-col why-content">
       <h2 style="color: #222; text-align:left; margin-left: 20px; font-family: 'Barlow', sans-serif; color:#222223;">
-ΣΥΝΔΥΑΣΜΟΣ ΠΟΥ ΦΟΡΑΙΣ ΚΑΘΕ ΜΕΡΑ
+KOMBINĀCIJA, KO VALKĀ KATRU DIENU
 
       </h2>
 
       <div style="margin-left: 20px;" class="why-point">
-        <p><strong>Σχεδιασμένα για ολοήμερη άνεση
+        <p><strong>Izstrādāts komfortam visu dienu
 
 
 </strong></p>
-        <p class="description">Το μπλουζάκι και τα μποξεράκια είναι φτιαγμένα για φόρεμα από το πρωί μέχρι το βράδυ, χωρίς ρυθμίσεις και δυσφορία. Όλα μένουν στη θέση τους, δεν σφίγγουν και επιτρέπουν ελεύθερη κίνηση όλη μέρα.
+        <p class="description">T-krekls un bokseršorti ir radīti valkāšanai no rīta līdz vakaram, bez pielāgošanas un diskomforta. Viss paliek savā vietā, nespiež un ļauj brīvi kustēties visu dienu.
 
 
 </p>
       </div>
 
       <div style="margin-left: 20px;" class="why-point">
-        <p><strong>Εφαρμογή που συνεργάζεται με το σώμα
+        <p><strong>Pieguļošana, kas strādā ar ķermeni
 
 
 </strong></p>
-        <p class="description">Η εφαρμογή του μπλουζακιού αναδεικνύει το πάνω μέρος του σώματος, ενώ τα μποξεράκια παρέχουν αρκετό χώρο και σταθερότητα χωρίς να ανεβαίνουν. Το αποτέλεσμα είναι μια σίγουρη, χαλαρή αίσθηση και περιποιημένη εμφάνιση σε κάθε περίσταση.
+        <p class="description">T-krekla pieguļošana izceļ ķermeņa augšdaļu, savukārt bokseršorti nodrošina pietiekami daudz vietas un stabilitāti, neuzvelkoties. Rezultāts ir pārliecināta, brīva sajūta un sakārtots izskats katrā situācijā.
 
 </p>
       </div>
@@ -137,36 +137,36 @@ PROČ LIDÉ VOLÍ STARTOVACÍ BALÍČEK?
     <!-- Right Content -->
     <div class="why-col why-content">
       <h2 style="color: #222; text-align:left; margin-left: 20px; font-family: 'Barlow', sans-serif; color:#222223;">
-Η ΠΙΟ ΕΥΚΟΛΗ ΚΑΙ ΑΣΦΑΛΗΣ ΑΡΧΗ
+VIENKĀRŠĀKAIS UN DROŠĀKAIS SĀKUMS
       </h2>
 
       <div style="margin-left: 20px;" class="why-point">
-        <p><strong>Ελάχιστο ρίσκο
+        <p><strong>Minimāls risks
 
 
 </strong></p>
-        <p class="description">Γιατί σας επιτρέπει να γνωρίσετε την ποιότητα χωρίς μεγάλη επένδυση. Αντί να αγοράσετε πολλά κομμάτια εκ των προτέρων, παίρνετε ένα μπλουζάκι και ένα μποξεράκι - ακριβώς αρκετά για να δείτε πώς εφαρμόζουν, πώς φοριούνται και ποιο είναι το υλικό.
+        <p class="description">Jo tas ļauj iepazīt kvalitāti bez lielas investīcijas. Tā vietā, lai iepriekš iegādātos daudz gabalu, jūs saņemat vienu T-kreklu un vienus bokseršortus - tieši pietiekami, lai redzētu, kā tie pieguļ, kā tos valkā un kāds ir materiāls.
 
 </p>
       </div>
 
       <div style="margin-left: 20px;" class="why-point">
-        <p><strong>Ο τέλειος τρόπος να ξεκινήσετε
+        <p><strong>Ideāls veids, kā sākt
 
 
 </strong></p>
-        <p class="description">Το πακέτο εκκίνησης δημιουργήθηκε ως πρώτη εμπειρία, όχι ως απόθεμα. Είναι διαθέσιμο μόνο μία φορά ανά πελάτη σε ειδική τιμή, ώστε η απόφαση να είναι απλή και χωρίς δεύτερη σκέψη.
+        <p class="description">Starta komplekts tika izveidots kā pirmā pieredze, nevis kā krājums. Tas ir pieejams tikai vienu reizi uz klientu par īpašu cenu, lai lēmums būtu vienkāršs un bez šaubām.
 
 
 </p>
       </div>
 
       <div style="margin-left: 20px;" class="why-point">
-        <p><strong>Μια εμπειρία στην οποία επιστρέφετε
+        <p><strong>Pieredze, pie kuras atgriežaties
 
 
 </strong></p>
-        <p class="description">Οι περισσότεροι άνδρες μένουν στη NORIKS γιατί αναγνωρίζουν τη διαφορά στην εφαρμογή, την άνεση και την ποιότητα. Αλλά το πρώτο βήμα είναι ακριβώς αυτό - ελάχιστο ρίσκο, καθαρή εντύπωση.
+        <p class="description">Lielākā daļa vīriešu paliek pie NORIKS, jo atpazīst atšķirību pieguļošanā, komfortā un kvalitātē. Bet pirmais solis ir tieši šis - minimāls risks, skaidrs iespaids.
 </p>
       </div>
     </div>
