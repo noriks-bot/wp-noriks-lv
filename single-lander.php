@@ -130,7 +130,7 @@
                                     A great T-shirt follows your natural lines to create what we call a “Tailored Fit” — a sharp, well-proportioned look that tells people you’ve got your life in order. Tailored fit is the epitome of understated confidence — something which gives you that extra edge every time you step into a room.
                                 </li>
                                 <li>
-                                    Most t-shirts today fall into the “fast fashion” category — made with low-quality materials and a disregard of durability. We, on the other hand, are looking for timeless luxury — the kind that people truly notice and appreciate, and which makes you proud to have in your wardrobe.
+                                    Lielākā daļa mūsdienu T-kreklu ietilpst "ātrās modes" kategorijā — izgatavoti no zemas kvalitātes materiāliem, nedomājot par izturību. Mēs savukārt meklējam mūžīgu luksusa kvalitāti — tādu, ko cilvēki patiesi pamana un novērtē, un kas liek jums lepoties ar savu garderobi.
                                 </li>
                                 <li>
                                     Lastly, we wear t-shirts everywhere — so we want to find one versatile enough to work everywhere: bar, boardroom, restaurant, office, day-out… you get the idea.
