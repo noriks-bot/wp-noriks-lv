@@ -322,7 +322,7 @@ if (  has_term( array( 'tricka', 'orto-majice', 'mplouzoakia', 't-shirts', 'blou
       </div>
 
       <div style="margin-left: 20px;" class="why-point">
-        <p><strong>Střih, který rozumí tělu
+        <p><strong>Griezums, kas saprot ķermeni
 </strong></p>
         <p class="description">Griezums tika izstrādāts tā, lai atkārtotu ķermeņa līniju bez saspīlējuma un izceltu pareizās vietas. Rezultāts ir sakārtots, pārliecināts izskats bez diskomforta sajūtas.
 </p>
