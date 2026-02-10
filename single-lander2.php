@@ -964,7 +964,7 @@ Individualni rezultati mogu se razlikovati. </em>
           <div class="rich-text__wrapper rich-text__wrapper--center page-width">
             <div class="rich-text__blocks center animate-item">
               <div class="rich-text__text rte">
-                <p>Ako želiš pročitati više recenzija i naručiti svoje bokserice, <strong>posjeti njihovu web stranicu</strong>.
+                <p>Ja vēlies izlasīt vairāk atsauksmju un pasūtīt savus bokseršortus, <strong>apmeklē viņu mājas lapu</strong>.
                 </p>
               </div>
               <div class="rich-text__buttons">
@@ -1060,7 +1060,7 @@ Individualni rezultati mogu se razlikovati. </em>
                         ">
                         <p class="announcement-bar__message">
                           <span>
-                            <a style="font-size: 1.2rem;" href="https://noriks.com/lv/product-category/bokserice/" title="">70% popusta danas → 30-dnevno probno razdoblje bez rizika</a>
+                            <a style="font-size: 1.2rem;" href="https://noriks.com/lv/product-category/bokserice/" title="">70% atlaide šodien → 30 dienu izmēģinājuma periods bez riska</a>
                           </span>
                         </p>
                       </div>
