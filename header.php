@@ -148,7 +148,7 @@ document.addEventListener('DOMContentLoaded', function () {
        <!-- DUPLICATED for seamless infinite loop -->
       <span><a href="/lv/shop">Bezmaksas piegāde pasūtījumiem virs 70 €</a></span>
       <span><a href="/lv/shop">30 dienas bez riska – izmēģini bez bažām</a></span>
-     <!-- <span><a href="/hr/shop">Zimska ponuda: Do 70% popusta!</a></span>-->
+     <!-- <span><a href="/lv/shop">Ziemas piedāvājums: Līdz 70% atlaide!</a></span>-->
     </div>
   </div>
 </div>
